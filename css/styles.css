@@ -655,8 +655,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 20rem;
-	height: 10rem;
+    width: 0.9rem;
+	height: 0.9rem;
 	-webkit-backface-visibility: hidden;
 }
 
