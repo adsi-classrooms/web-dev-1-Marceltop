@@ -655,8 +655,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 150px;
-	height: 150px;
+    width: 75px;
+	height: 75px;
 	-webkit-backface-visibility: hidden;
 }
 
@@ -839,9 +839,9 @@ input[type='checkbox'] {
 }
 
 .basic-1 .image-container:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
+	-moz-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
 } 
 /* end of hover animation */
 
